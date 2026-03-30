@@ -23,7 +23,7 @@ This project demonstrates end-to-end machine learning competency through:
 
 - **Fine-tuned Model**: [LeTG/llama-3p1-8B-psyop-analysis](https://huggingface.co/LeTG/llama-3p1-8B-psyop-analysis)
 - **Dataset**: [LeTG/psychological-coercion-identification](https://huggingface.co/datasets/LeTG/psychological-coercion-identification)
-- **Training Notebook**: [Colab Notebook](link-to-notebook-if-shared)
+- **Training Notebook**: [Colab Notebook](https://colab.research.google.com/drive/1wJkUQ4-vqNk1yHmatW9yYQuk2paprFxS?usp=sharing)
 
 ## Methodology
 
